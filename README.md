@@ -1,5 +1,5 @@
-# Personal gitignore Templates
+# Personal Github Templates
 
 ## About
 
-Just a simple gitignore template for personal use.
+Just a simple Github templates for personal use.
